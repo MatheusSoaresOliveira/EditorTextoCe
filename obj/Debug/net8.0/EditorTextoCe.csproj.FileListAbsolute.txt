@@ -1,0 +1,15 @@
+C:\Users\ms027\Source\Repos\EditorTextoCe\bin\Debug\net8.0\EditorTextoCe.exe
+C:\Users\ms027\Source\Repos\EditorTextoCe\bin\Debug\net8.0\EditorTextoCe.deps.json
+C:\Users\ms027\Source\Repos\EditorTextoCe\bin\Debug\net8.0\EditorTextoCe.runtimeconfig.json
+C:\Users\ms027\Source\Repos\EditorTextoCe\bin\Debug\net8.0\EditorTextoCe.dll
+C:\Users\ms027\Source\Repos\EditorTextoCe\bin\Debug\net8.0\EditorTextoCe.pdb
+C:\Users\ms027\Source\Repos\EditorTextoCe\obj\Debug\net8.0\EditorTextoCe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ms027\Source\Repos\EditorTextoCe\obj\Debug\net8.0\EditorTextoCe.AssemblyInfoInputs.cache
+C:\Users\ms027\Source\Repos\EditorTextoCe\obj\Debug\net8.0\EditorTextoCe.AssemblyInfo.cs
+C:\Users\ms027\Source\Repos\EditorTextoCe\obj\Debug\net8.0\EditorTextoCe.csproj.CoreCompileInputs.cache
+C:\Users\ms027\Source\Repos\EditorTextoCe\obj\Debug\net8.0\EditorTextoCe.sourcelink.json
+C:\Users\ms027\Source\Repos\EditorTextoCe\obj\Debug\net8.0\EditorTextoCe.dll
+C:\Users\ms027\Source\Repos\EditorTextoCe\obj\Debug\net8.0\refint\EditorTextoCe.dll
+C:\Users\ms027\Source\Repos\EditorTextoCe\obj\Debug\net8.0\EditorTextoCe.pdb
+C:\Users\ms027\Source\Repos\EditorTextoCe\obj\Debug\net8.0\EditorTextoCe.genruntimeconfig.cache
+C:\Users\ms027\Source\Repos\EditorTextoCe\obj\Debug\net8.0\ref\EditorTextoCe.dll
